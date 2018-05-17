@@ -3,7 +3,7 @@
     <fullName>Translator__c</fullName>
     <description>Where the translator name goes.</description>
     <externalId>false</externalId>
-    <inlineHelpText>Where the translator name goes.</inlineHelpText>
+    <inlineHelpText>Name of the translator.</inlineHelpText>
     <label>Translator</label>
     <length>255</length>
     <required>false</required>
